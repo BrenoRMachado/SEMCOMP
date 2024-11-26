@@ -1,1 +1,3 @@
 Bem vindos ao minicurso de git/github
+
+ALteração teste
